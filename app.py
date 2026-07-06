@@ -1,1 +1,1 @@
-print("BTC Signal Bot is running")
+print("BTC Signal Bot Started")
